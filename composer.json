@@ -1,5 +1,5 @@
 {
-    "name": "whatsapp/chat-api",
+    "name": "conjured/chat-api",
     "description": "The PHP WhatsApp library",
     "license": "GPL-3.0+",
     "keywords": [
@@ -12,6 +12,10 @@
             "role": "Contributors",
             "name": "Chat API Contributing Team",
             "homepage": "https://github.com/mgp25/Chat-API/graphs/contributors"
+        },
+        {
+            "name": "Conjured - Char Genevier",
+            "email": "char@conjured.co"
         }
     ],
     "support": {
